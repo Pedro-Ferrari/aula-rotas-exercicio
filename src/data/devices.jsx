@@ -7,6 +7,13 @@ const devices = [
       price: 3599.99,
     },
     // Outros dispositivos...
+    {
+      id: 2,
+      name: 'Iphone 13',
+      image: '../img/iphone2.jpg',
+      description: 'Iphone 13 - 256gb - ultima geração',
+      price: 5599.99,
+    },
   ];
   
   export default devices;
